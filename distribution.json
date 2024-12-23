@@ -457,10 +457,21 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 194,
+            "size": 416,
             "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/files/options.txt",
-            "MD5": "c0d226249a7c2878875c8526918aecc6",
+            "MD5": "aa318cbae6453c18576d7a11ec48e4ee",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 386,
+            "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/files/optionsshaders.txt",
+            "MD5": "144b45a2e92bbe7ed3f61d136b4ec6ec",
+            "path": "optionsshaders.txt"
           }
         },
         {
@@ -497,17 +508,6 @@
           }
         },
         {
-          "id": "generated.zip",
-          "name": "generated.zip",
-          "type": "File",
-          "artifact": {
-            "size": 9894917,
-            "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/files/resourcepacks/generated.zip",
-            "MD5": "fcf2221f16099281c11269259a18c39f",
-            "path": "resourcepacks/generated.zip"
-          }
-        },
-        {
           "id": "Stay_True_1.20.zip",
           "name": "Stay_True_1.20.zip",
           "type": "File",
@@ -530,14 +530,14 @@
           }
         },
         {
-          "id": "ComplementaryUnbound_r5.1.1.zip",
-          "name": "ComplementaryUnbound_r5.1.1.zip",
+          "id": "servers.dat",
+          "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 409957,
-            "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip",
-            "MD5": "da7fc4c86b12e65f4f70b3a9aaabae90",
-            "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
+            "size": 13872,
+            "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/files/servers.dat",
+            "MD5": "4b356a40cb58e68c9e0210237ee77a71",
+            "path": "servers.dat"
           }
         },
         {
