@@ -475,14 +475,25 @@
           }
         },
         {
-          "id": "Dramatic Skys Demo 1.5.3.12.zip",
-          "name": "Dramatic Skys Demo 1.5.3.12.zip",
+          "id": "Dramatic_Skys_Demo-1.5.3.12.zip",
+          "name": "Dramatic_Skys_Demo-1.5.3.12.zip",
           "type": "File",
           "artifact": {
             "size": 14750062,
-            "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/files/resourcepacks/Dramatic%20Skys%20Demo%201.5.3.12.zip",
+            "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/files/resourcepacks/Dramatic_Skys_Demo-1.5.3.12.zip",
             "MD5": "4f73f9c812c700a68e436c242745c92a",
-            "path": "resourcepacks/Dramatic Skys Demo 1.5.3.12.zip"
+            "path": "resourcepacks/Dramatic_Skys_Demo-1.5.3.12.zip"
+          }
+        },
+        {
+          "id": "Enhanced_Boss_Bars-1.4.1.zip",
+          "name": "Enhanced_Boss_Bars-1.4.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 159369,
+            "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/files/resourcepacks/Enhanced_Boss_Bars-1.4.1.zip",
+            "MD5": "495fbb660cd869fea7f7f2a26d1c1528",
+            "path": "resourcepacks/Enhanced_Boss_Bars-1.4.1.zip"
           }
         },
         {
@@ -505,17 +516,6 @@
             "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/files/resourcepacks/Stay_True_1.20.zip",
             "MD5": "2d0227cf97a1adfd638bd5a1415c150e",
             "path": "resourcepacks/Stay_True_1.20.zip"
-          }
-        },
-        {
-          "id": "[1.4.1] Enhanced Boss Bars.zip",
-          "name": "[1.4.1] Enhanced Boss Bars.zip",
-          "type": "File",
-          "artifact": {
-            "size": 159369,
-            "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/files/resourcepacks/[1.4.1]%20Enhanced%20Boss%20Bars.zip",
-            "MD5": "495fbb660cd869fea7f7f2a26d1c1528",
-            "path": "resourcepacks/[1.4.1] Enhanced Boss Bars.zip"
           }
         },
         {
