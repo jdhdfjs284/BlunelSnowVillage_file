@@ -459,7 +459,6 @@
           "artifact": {
             "size": 416,
             "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/files/options.txt",
-            "MD5": "aa318cbae6453c18576d7a11ec48e4ee",
             "path": "options.txt"
           }
         },
@@ -470,7 +469,6 @@
           "artifact": {
             "size": 386,
             "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/files/optionsshaders.txt",
-            "MD5": "144b45a2e92bbe7ed3f61d136b4ec6ec",
             "path": "optionsshaders.txt"
           }
         },
@@ -536,7 +534,6 @@
           "artifact": {
             "size": 13872,
             "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/files/servers.dat",
-            "MD5": "4b356a40cb58e68c9e0210237ee77a71",
             "path": "servers.dat"
           }
         },
