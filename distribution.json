@@ -523,9 +523,9 @@
           "name": "리소스팩.zip",
           "type": "File",
           "artifact": {
-            "size": 5111906,
+            "size": 5449552,
             "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/files/resourcepacks/%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
-            "MD5": "d07735dba03104b9cef3bc9ee871e5c7",
+            "MD5": "bfe6337591bb42ac4bfc020920518860",
             "path": "resourcepacks/리소스팩.zip"
           }
         },
