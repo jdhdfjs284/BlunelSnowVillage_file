@@ -1,7 +1,7 @@
 version:3465
 realmsNotifications:false
 guiScale:2
-resourcePacks:["vanilla","mod_resources","file/Stay_True_1.20.zip","file/Enhanced_Boss_Bars-1.4.1.zip","file/Dramatic_Skys_Demo-1.5.3.12.zip","file/Crops-3D_MC1.19_v1.2.0.zip","file/리소스팩.zip"]
+resourcePacks:["vanilla","mod_resources","file/Enhanced_Boss_Bars-1.4.1.zip","file/Dramatic_Skys_Demo-1.5.3.12.zip","file/Crops-3D_MC1.19_v1.2.0.zip","file/리소스팩.zip"]
 incompatibleResourcePacks:["file/Crops-3D_MC1.19_v1.2.0.zip"]
 lang:ko_kr
 narrator:0
