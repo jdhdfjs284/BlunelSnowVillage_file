@@ -39,8 +39,8 @@
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16624,
-                "MD5": "03a2952855c972936b345832f594621f",
+                "size": 16992,
+                "MD5": "f3ab56294eaee04e349c5d2463caad77",
                 "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/repo/versions/1.20.1-forge-47.3.12/1.20.1-forge-47.3.12.json"
               }
             },
@@ -433,6 +433,26 @@
           ]
         },
         {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2851119,
+            "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
+          }
+        },
+        {
           "id": "de.maxhenkel:voicechat:1.20.1-2.5.13@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
@@ -443,23 +463,12 @@
           }
         },
         {
-          "id": "generated.library:OptiFine_1.20.1_HD_U_I6_MOD:0.0.0@jar",
-          "name": "OptiFine_1.20.1_HD_U_I6_MOD",
-          "type": "Library",
-          "artifact": {
-            "size": 6638739,
-            "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
-            "MD5": "76c71feb7ae3b5dfa4cc7a76ba316e16"
-          }
-        },
-        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
           "artifact": {
             "size": 390,
             "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/files/options.txt",
-            "MD5": "32e2aae72413cce4b8e30d2b16ec7695",
             "path": "options.txt"
           }
         },
@@ -470,7 +479,6 @@
           "artifact": {
             "size": 71,
             "url": "https://github.com/jdhdfjs284/BlunelSnowVillage_file/raw/main/servers/BlunelSnowVillage-1.20.1/files/optionsshaders.txt",
-            "MD5": "ca90b537aa5edd9df1700605591224bd",
             "path": "optionsshaders.txt"
           }
         },

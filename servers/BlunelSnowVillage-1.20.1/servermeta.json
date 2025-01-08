@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/distro-file/BlunelSnowVillage/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/BlunelSnowVillage_file/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "블널의 눈꽃마을",
@@ -20,7 +20,7 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": []
+      "patterns": ["options.txt", "optionsshaders.txt"]
     }
   ]
 }
